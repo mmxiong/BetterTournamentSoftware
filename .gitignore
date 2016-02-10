@@ -1,0 +1,7 @@
+#ignore IDE files
+.idea/
+
+#ignore .pyc directory
+__pycache__/
+
+#ignore temp files
